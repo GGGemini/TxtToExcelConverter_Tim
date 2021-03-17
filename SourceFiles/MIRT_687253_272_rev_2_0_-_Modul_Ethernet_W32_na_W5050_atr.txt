@@ -1,0 +1,221 @@
+P-CAD Component and Net Attributes     Ã»–“.687253.272_rev_2_0 - ÃÓ‰ÛÎ
+
+======================================================================
+
+RefDes               Type                 Value               
+-------------------- -------------------- --------------------
+
+BQ1                  KX-327NHT            KX-327NHT 32.768 kHz
+BQ2                  ABM10                ABM10W25.0000MHZ8B1U
+                                          T                   
+C1                   C_0603               22nF                
+C2                   C_0603               10nF                
+C3                   C_0603               0603-X7R-50V-0,1mkF 
+                                          ±10%                
+C4                   C_0603               0603-X7R-50V-0,1mkF 
+                                          ±10%                
+C5                   C_0603               6.8pF               
+C6                   C_0603               6.8pF               
+C7                   CA_6,3_7,7                               
+C8                   C_0603               0603-X7R-50V-0,1mkF 
+                                          ±10%                
+C9                   CA_6,3_7,7                               
+C10                  C_0603               0603-X7R-50V-0,1mkF 
+                                          ±10%                
+C11                  C_0805               2,2uF               
+C12                  C_0603               0603-X7R-50V-0,1mkF 
+                                          ±10%                
+C13                  C_0603               0603-X7R-50V-0,1mkF 
+                                          ±10%                
+C14                  C_0603               0.1uF               
+C15                  C_0805               4.7uF               
+C16                  C_0603               10nf                
+C17                  C_0603               18pF                
+C20                  C_0805               4.7uF               
+C21                  C_0603               18pF                
+C22                  C_0603               0603-X7R-50V-0,1mkF 
+                                          ±10%                
+C23                  C_0603               0603-X7R-50V-0,1mkF 
+                                          ±10%                
+C24                  C_0603               0603-X7R-50V-0,1mkF 
+                                          ±10%                
+C25                  C_0603               0603-X7R-50V-0,1mkF 
+                                          ±10%                
+C26                  C_0603               0603-X7R-50V-0,1mkF 
+                                          ±10%                
+C27                  C_0603               0603-X7R-50V-0,1mkF 
+                                          ±10%                
+C28                  C_0805               4.7uF               
+D1                   HT6027                                   
+D2                   W5500                                    
+D3                   ADM485               SN65HVD3082ED       
+D4                   AT24C64              24FC1026T-I/SN      
+D5                   SPX3819M5            SPX3819M5- L/TR     
+D6                   25AA256              AT25SF081-SSHN-T    
+D7                   SN74LVC1T45DBVR                          
+D8                   SN74LVC1T45DBVR                          
+HL5                  KAA-3528EMBSGCT                          
+HL6                  KAA-3528EMBSGCT                          
+J5                   J_OPEN                                   
+J6                   J_OPEN                                   
+J7                   J_OPEN                                   
+R1                   R_0603               0603-0,1W-2K-200ppm 
+                                          ±5%                 
+R2                   R_0603               0R                  
+R3                   R_0603               0R                  
+R4                   R_0603               0R                  
+R5                   R_0603               0R                  
+R6                   R_0603               2K                  
+R7                   R_0603               82R                 
+R12                  R_0603               51R                 
+R13                  R_0603               0603-0,1W-2K-200ppm 
+                                          ±5%                 
+R14                  R_0603               2K                  
+R15                  R_0603               82R                 
+R16                  R_0603               51R                 
+R17                  R_0603               10K                 
+R18                  R_0603               2K                  
+R19                  R_0603               10R                 
+R20                  R_0603               330R                
+R21                  R_0603               0603-0,1W-16K9-100pp
+                                          m ±1%               
+R22                  R_0603               0603-0,1W-10K-100ppm
+                                           ±1%                
+R23                  R_0603               0603-10Í            
+R24                  R_0603               330R                
+R26                  R_0603               0603-0,1W-10K-200ppm
+                                           ±5%                
+R27                  R_0603               0603-0,1W-10K-200ppm
+                                           ±5%                
+R28                  R_0603               0603-10Í            
+R31                  R_0603               1K                  
+R32                  R_0603               1K                  
+R33                  R_0603               0603-10Í            
+R34                  R_0603               1K                  
+R35                  R_0603               2K                  
+R36                  R_0603               2K                  
+R39                  R_0603               2K                  
+R40                  R_0603               10K                 
+R41                  R_0603               12K4                
+R42                  R_0603               2K                  
+R44                  R_0603               1M                  
+R45                  R_0603               2K                  
+R46                  R_0603               2K                  
+R47                  R_0603               511                 
+R48                  R_0603               1K                  
+R49                  R_0603               511                 
+R50                  R_0603               1K                  
+R51                  R_0603               511                 
+R55                  R_0603               1K                  
+R56                  R_0603               511                 
+R57                  R_0603               511                 
+R58                  R_0603               511                 
+R59                  R_0603               1K                  
+R60                  R_0603               1K                  
+R61                  R_0603               1K                  
+VD1                  SMAJ_CA              SMAJ6.0CA           
+VD2                  SMAJ_CA              SMAJ6.0CA           
+VT3                  BC846_SOT23                              
+VT4                  BC846_SOT23                              
+VT7                  BC846_SOT23                              
+VT8                  BC846_SOT23                              
+VT12                 BC846_SOT23                              
+VT13                 BC846_SOT23                              
+XP1                  PLS-5                PLS-5               
+XP2                  PLS2-6                                   
+XP3                  PLD-16                                   
+XS1                  HR911105A                                
+XT1                  F35-B-5.0                                
+
+NetName             
+--------------------
+
+1V20                
+ACTLED              
+BLUEL               
+BLUER               
+EXPES1              
+GND                 
+GREENL              
+GREENR              
+INTN                
+LINKLED             
+MISO                
+MISO_FLASH          
+MOSI                
+MOSI_FLASH          
+NET00001            
+NET00002            
+NET00003            
+NET00006            
+NET00007            
+NET00009            
+NET00010            
+NET00012            
+NET00014            
+NET00017            
+NET00018            
+NET00019            
+NET00020            
+NET00021            
+NET00023            
+NET00024            
+NET00025            
+NET00028            
+NET00030            
+NET00031            
+NET00032            
+NET00034            
+NET00035            
+NET00036            
+NET00041            
+NET00042            
+NET00044            
+NET00046            
+NET00047            
+NET00050            
+NET00051            
+NET00052            
+NET00053            
+OSC32_IN            
+OSC32_OUT           
+PGC                 
+PGD                 
+PMODE0              
+PMODE1              
+PMODE2              
+REDL                
+REDR                
+RE_DE_RS485         
+RSTN                
+RXN                 
+RXP                 
+RX_C                
+RX_COUNT            
+RX_RS485            
+SCK_FLASH           
+SCLK                
+SCL_EEPROM          
+SCSN                
+SDA_EEPROM          
+SWCLK               
+SWIO                
+TEST                
+TOCAP               
+TOUT1               
+TXN                 
+TXP                 
+TX_C                
+TX_COUNT            
+TX_RS485            
+VDD_1V5             
+VDD_3V3             
+VDD_5V              
+WP_EEPROM           
+XI                  
+XO                  
+~CS~_FLASH          
+~HOLD               
+~NRST               
+~SET_END~           
+~WP                 
