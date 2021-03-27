@@ -1,0 +1,42 @@
+P-CAD Component and Net Attributes     Ã»–“.687253.272_rev_3_0 - ÃÓ‰ÛÎ
+
+======================================================================
+
+RefDes               Type                 Value               
+-------------------- -------------------- --------------------
+
+BQ1                  KX-327NHT            KX-327NHT_32.768kHz 
+   
+BQ2                  ABM10                ABM10W25.0000MHZ8B1U
+                                          T                   
+               
+C3                   C_0603               0603-X7R-50V_0,1mkF 
+                                          _±10%                
+          
+D1                   HT6027                -                   
+D2                   W5500                 -                  
+D3                   ADM485               SN65HVD3082ED       
+D4                   AT24C64              24FC1026T-I/SN      
+                        
+J5                   J_OPEN                                   
+J6                   J_OPEN                                   
+                                 
+R1                   R_0603               0603-0,1W-1K5_200ppm
+                                          _±5%  
+              
+L2                   L_0603               0603_1mH_±5%     
+          
+VD1                  SMAJ_CA              SMAJ6.0CA           
+VD2                  SMAJ_CA              SMAJ6.0CA
+           
+VT3                  BC846_SOT23                              
+VT4                  BC846_SOT23                              
+VT7                  BC846_SOT23   
+                              
+                       
+VT13                 BC846_SOT23                              
+XP1                  PLS-5                PLS-5               
+XP2                  PLS2-6                                   
+XP3                  PLD-16                                   
+XS1                  AMP_406541                               
+XT1                  F35-B-5.0                                

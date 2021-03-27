@@ -12,7 +12,9 @@ namespace TxtToExcelConverter_Tim
         [STAThread]
         static void Main()
         {
+            // чтобы читать кодировку с файла
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
+            
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
